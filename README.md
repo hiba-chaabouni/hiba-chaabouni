@@ -13,6 +13,9 @@
   <a href="mailto:hibachaabouni01@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://hiba-chaabouni.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-purple?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
 </p>
 
 
